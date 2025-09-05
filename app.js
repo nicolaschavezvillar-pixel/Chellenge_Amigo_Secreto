@@ -53,8 +53,10 @@ function mostrarAmigos() {
     // Seleccionar el nombre en esa posición
     const amigoSorteado = amigos[indiceAleatorio];
 
-    // Mostrar el resultado en la consola (luego lo pondremos en el HTML)
-    console.log("Amigo sorteado:", amigoSorteado);
-}  
+     // Mostrar el resultado en el elemento <ul id="resultado">
+    const resultado = document.getElementById("resultado");
+    resultado.innerHTML = `<li>🎉 El amigo secreto es: <strong>${amigoSorteado}</strong></li>`;
+}
+ 
     
 
