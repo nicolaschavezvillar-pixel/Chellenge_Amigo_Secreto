@@ -87,7 +87,7 @@ README.md # Este archivo de documentación
 Nicolas Sebastian Chavez Villar.
 
 ## Autor
-| [<img src="assets/nico.png" width=115><br><sub>Camila Fernanda Alves</sub>](https://github.com/camilafernanda) |
+| [<img src="assets/nico.png" width=115><br><sub>Camila Fernanda Alves</sub>](https://github.com/nicolaschavezvillar-pixel) |
 | :---: | 
 
 
