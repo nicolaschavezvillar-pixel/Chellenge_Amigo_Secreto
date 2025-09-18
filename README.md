@@ -1,9 +1,10 @@
 # Amigo Secreto
 Aplicación web simple en HTML, CSS y JavaScript para agregar nombres y sortear un amigo aleatoriamente.
-![Portada del Proyecto](assets/amigo-secreto.png)  
+![Portada del Proyecto](assets/LUFFY_AMIGO_SECRETOv2_1600x.webp)  
 
 ## 🏅 Insignias
-![Estado del Proyecto](https://img.shields.io/badge/estado-en%20desarrollo-yellow)
+![Estado del Proyecto](https://img.shields.io/badge/estado-completado-brightgreen)
+
 ![Licencia](https://img.shields.io/badge/licencia-MIT-green)
 
 ## 📑 Índice
@@ -85,8 +86,10 @@ README.md # Este archivo de documentación
 
 Nicolas Sebastian Chavez Villar.
 
-## 👨‍💻 Autor
-Proyecto desarrollado por [Nicolás Chávez Villar](https://github.com/nicolaschavezvillar-pixelio).
+## Autor
+| [<img src="assets/nico.png" width=115><br><sub>Camila Fernanda Alves</sub>](https://github.com/camilafernanda) |
+| :---: | 
+
 
 📄 Licencia
 
