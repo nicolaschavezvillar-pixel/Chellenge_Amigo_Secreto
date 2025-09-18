@@ -37,8 +37,8 @@ Permite ingresar nombres en una lista y realizar un sorteo aleatorio para elegir
 ---
 
 ## 🔗 Acceso al Proyecto
-- [Repositorio en GitHub](https://github.com/nicolaschavezvillar-pixel/Challenge_Amigo_Secreto)  
-- [Versión en línea (GitHub Pages)](https://nicolaschavezvillar-pixel.github.io/Challenge_Amigo_Secreto/)  
+- [Repositorio en GitHub](https://github.com/nicolaschavezvillar-pixel/Chellenge_Amigo_Secreto)  
+- [Versión en línea (GitHub Pages)](https://nicolaschavezvillar-pixel.github.io/Chellenge_Amigo_Secreto/)  
 
 ## Características
 - Agregar nombres a una lista.
@@ -85,8 +85,14 @@ README.md # Este archivo de documentación
 - Visual Studio Code (editor recomendado)
 
 ## 🙌 Contribuidores
-## 🙌 Contribuidores
+
+Gracias a todas las personas que han contribuido a este proyecto.
+
+### Personas
 - [Nicolás Chávez Villar](https://github.com/nicolaschavezvillar-pixel)
+
+### Mural de avatares
+[![Contribuidores](https://contrib.rocks/image?repo=nicolaschavezvillar-pixel/Chellenge_Amigo_Secreto)](https://github.com/nicolaschavezvillar-pixel/Chellenge_Amigo_Secreto/graphs/contributors)
 
 
 
