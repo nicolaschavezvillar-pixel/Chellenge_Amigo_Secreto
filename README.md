@@ -85,9 +85,9 @@ README.md # Este archivo de documentación
 - Visual Studio Code (editor recomendado)
 
 ## 🙌 Contribuidores
-Gracias a todas las personas que han contribuido a este proyecto:
+## 🙌 Contribuidores
+- [Nicolás Chávez Villar](https://github.com/nicolaschavezvillar-pixel)
 
-[![Contribuidores](https://contrib.rocks/image?repo=nicolaschavezvillar-pixel/Chellenge_Amigo_Secreto)](https://github.com/nicolaschavezvillar-pixel/Chellenge_Amigo_Secreto/graphs/contributors)
 
 
 ## Autor
