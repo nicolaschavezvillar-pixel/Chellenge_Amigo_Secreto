@@ -1,5 +1,41 @@
 # Amigo Secreto
 Aplicación web simple en HTML, CSS y JavaScript para agregar nombres y sortear un amigo aleatoriamente.
+![Portada del Proyecto](assets/amigo-secreto.png)  
+
+## 🏅 Insignias
+![Estado del Proyecto](https://img.shields.io/badge/estado-en%20desarrollo-yellow)
+![Licencia](https://img.shields.io/badge/licencia-MIT-green)
+
+## 📑 Índice
+1. [Descripción del Proyecto](#-descripción-del-proyecto)
+2. [Estado del Proyecto](#-estado-del-proyecto)
+3. [Demostración](#-demostración)
+4. [Acceso al Proyecto](#-acceso-al-proyecto)
+5. [Características](#-características)
+6. [Requisitos](#-requisitos)
+7. [Instalación y ejecución](#-instalación-y-ejecución)
+8. [Estructura del Proyecto](#-estructura-del-proyecto)
+9. [Uso](#-uso)
+10. [Solución de Problemas](#-solución-de-problemas)
+11. [Tecnologías](#-tecnologías)
+12. [Personas Contribuyentes](#-personas-contribuyentes)
+13. [Autor](#-autor)
+14. [Licencia](#-licencia)
+
+## 📖 Descripción del Proyecto
+Aplicación creada como práctica de JavaScript DOM.  
+Permite ingresar nombres en una lista y realizar un sorteo aleatorio para elegir un “amigo secreto”.
+
+
+## 📌 Estado del proyecto
+🚧 Finalizado – Versión Final.  
+
+
+---
+
+## 🔗 Acceso al Proyecto
+- [Repositorio en GitHub](https://github.com/nicolaschavezvillar-pixelio/Challenge_Amigo_Secreto)  
+- [Versión en línea (GitHub Pages)](https://nicolaschavezvillar-pixelio.github.io/Challenge_Amigo_Secreto/)  
 
 ## Características
 - Agregar nombres a una lista.
@@ -45,10 +81,17 @@ README.md # Este archivo de documentación
 - JavaScript (Vanilla)
 - Visual Studio Code (editor recomendado)
 
+🙌 Personas Contribuyentes
+
+Nicolas Sebastian Chavez Villar.
+
 ## 👨‍💻 Autor
 Proyecto desarrollado por [Nicolás Chávez Villar](https://github.com/nicolaschavezvillar-pixelio).
 
-## 📄 Licencia
+📄 Licencia
+
 Este proyecto se distribuye bajo la licencia MIT.
+---
+
 
 
