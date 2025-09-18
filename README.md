@@ -87,7 +87,7 @@ README.md # Este archivo de documentación
 ## 🙌 Contribuidores
 Gracias a todas las personas que han contribuido a este proyecto:
 
-[![Contribuidores](https://contrib.rocks/image?repo=nicolaschavezvillar-pixel/Challenge_Amigo_Secreto)](https://github.com/nicolaschavezvillar-pixel/Chellenge_Amigo_Secreto/graphs/contributors)
+[![Contribuidores](https://contrib.rocks/image?repo=nicolaschavezvillar-pixel/Chellenge_Amigo_Secreto)](https://github.com/nicolaschavezvillar-pixel/Chellenge_Amigo_Secreto/graphs/contributors)
 
 
 ## Autor
