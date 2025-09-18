@@ -37,8 +37,8 @@ Permite ingresar nombres en una lista y realizar un sorteo aleatorio para elegir
 ---
 
 ## 🔗 Acceso al Proyecto
-- [Repositorio en GitHub](https://github.com/nicolaschavezvillar-pixelio/Challenge_Amigo_Secreto)  
-- [Versión en línea (GitHub Pages)](https://nicolaschavezvillar-pixelio.github.io/Challenge_Amigo_Secreto/)  
+- [Repositorio en GitHub](https://github.com/nicolaschavezvillar-pixel/Challenge_Amigo_Secreto)  
+- [Versión en línea (GitHub Pages)](https://nicolaschavezvillar-pixel.github.io/Challenge_Amigo_Secreto/)  
 
 ## Características
 - Agregar nombres a una lista.
@@ -52,7 +52,7 @@ Permite ingresar nombres en una lista y realizar un sorteo aleatorio para elegir
 ## Instalación y ejecución
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/nicolaschavezvillar-pixelio/Chellenge_Amigo_Secreto.git
+   git clone https://github.com/nicolaschavezvillar-pixel/Chellenge_Amigo_Secreto.git
    cd Chellenge_Amigo_Secreto
    ```
 
@@ -84,12 +84,14 @@ README.md # Este archivo de documentación
 - JavaScript (Vanilla)
 - Visual Studio Code (editor recomendado)
 
-🙌 Personas Contribuyentes
+## 🙌 Contribuidores
+Gracias a todas las personas que han contribuido a este proyecto:
 
-Nicolas Sebastian Chavez Villar.
+[![Contribuidores](https://contrib.rocks/image?repo=nicolaschavezvillar-pixel/Challenge_Amigo_Secreto)](https://github.com/nicolaschavezvillar-pixel/Challenge_Amigo_Secreto/graphs/contributors)
+
 
 ## Autor
-| [<img src="assets/nico.png" width=115><br><sub>Camila Fernanda Alves</sub>](https://github.com/nicolaschavezvillar-pixel) |
+| [<img src="assets/nico.png" width=115><br><sub>Nicolas Chavez Villar</sub>](https://github.com/nicolaschavezvillar-pixel) |
 | :---: | 
 
 
