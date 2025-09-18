@@ -1,6 +1,8 @@
 # Amigo Secreto
-Aplicación web simple en HTML, CSS y JavaScript para agregar nombres y sortear un amigo aleatoriamente.
 ![Portada del Proyecto](assets/LUFFY_AMIGO_SECRETOv2_1600x.webp)  
+
+Aplicación web simple en HTML, CSS y JavaScript para agregar nombres y sortear un amigo aleatoriamente.
+
 
 ## 🏅 Insignias
 ![Estado del Proyecto](https://img.shields.io/badge/estado-completado-brightgreen)
@@ -89,6 +91,7 @@ Nicolas Sebastian Chavez Villar.
 ## Autor
 | [<img src="assets/nico.png" width=115><br><sub>Camila Fernanda Alves</sub>](https://github.com/nicolaschavezvillar-pixel) |
 | :---: | 
+
 
 
 📄 Licencia
